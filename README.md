@@ -1,2 +1,2 @@
 # Primeiro repositorio
-Projetos da Eduzz
+Bootcamp da Eduzz
